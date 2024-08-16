@@ -26,7 +26,7 @@ export default function Banner() {
             
           </div>
           <div>
-            <button className="btn btn-secondary mt-6">Secondary</button>
+            <button className="btn btn-secondary mt-6">Get Started</button>
             </div>
         </div>
         <div className="right order-1 w-full md:w-1/2">
